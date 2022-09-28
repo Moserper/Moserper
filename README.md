@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Moserper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" height="270px" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<!---
-Moserper/Moserper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤖 I'am Moss
+- 🔭 I’m Backend Developer
+- 🌱 I’m currently learning Go
+
+## 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,firebase,gcp,postgres,prisma,go,java,js,ts,nodejs,vim,vscode&perline=5)](https://skillicons.dev)

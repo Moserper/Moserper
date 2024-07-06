@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Go
 
 ## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,firebase,gcp,postgres,prisma,go,java,js,ts,nodejs,vim,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,github,terraform,gcp,docker,firebase,mongodb,postgres,prisma,go,java,js,ts,nodejs,vim,vscode&perline=9)](https://skillicons.dev)
